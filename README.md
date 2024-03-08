@@ -5,7 +5,7 @@
 
   <p>
     저의 GitHub에 오신것을 환영합니다. </br> 
-    저는 <b><a href="http://frameout.com">프레임아웃</a></b>에서 근무하고 있으며, 주 업무는 구축 프로젝트에서 퍼블리싱을 하고 있습니다.
+    저는 <b><a href="http://frameout.com" target="_blank">프레임아웃</a></b>에서 근무하고 있으며, 주 업무는 구축 프로젝트에서 퍼블리싱을 하고 있습니다.
   <p>
 </div>
 
@@ -116,7 +116,7 @@
         </td>
         <td>2023.09.01 ~ 2024.02.29 (6개월)</td>
         <td>
-          HTML, SCSS, JS, jQuery, React
+          HTML, SCSS, JS, jQuery, React<br/>
           - 그리드 컴포넌트 : High Chart
         </td>
       </tr>
