@@ -1,7 +1,5 @@
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 안녕하세요. 퍼블리셔 최찬식입니다.
 
----
-
 저의 GitHub에 오신것을 환영합니다. 저는 [프레임아웃](http://frameout.com/)에서 근무하고 있으며, 주 업무는 구축 프로젝트에서 퍼블리싱을 하고 있습니다.
 
 ```javascript
