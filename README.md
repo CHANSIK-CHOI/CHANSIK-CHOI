@@ -5,7 +5,7 @@
 ```javascript
 const CHANSIK_SHOI = {
   회사: "프레임아웃",
-  직군: "Web Publisher",
+  직무: "Web Publisher",
   직책: "대리",
   근무기간: "2021.06 ~ 재직중 / 3년차",
   이메일: "ckstlr0828@frameout.co.kr",
