@@ -7,16 +7,16 @@ const CHANSIK_SHOI = {
   회사: "프레임아웃",
   직무: "Web Publisher",
   직책: "대리",
-  근무기간: "2021.06 ~ 재직중 / 3년차",
-  이메일: "ckstlr0828@frameout.co.kr",
+  근무기간: "2021.06 ~ 재직중 / 4년차",
+  이메일: "ccsik0828@gmail.com",
   코딩스타일: {
     HTML: "BEM",
     CSS: "SCSS & Gulp",
-    Javascript: "new Class() or {...}",
+    JavaScript 디자인 패턴: "new Class() or {...}",
   },
 
   경력: {
-    총경력: "총 2년 9개월",
+    총경력: "총 3년 4개월",
     list: [{ NO: 1, 회사명: "프레임아웃", 근무기간: "2021.06 ~ 재직중" }],
   },
 
