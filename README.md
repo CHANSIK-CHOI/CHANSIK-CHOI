@@ -50,7 +50,7 @@ const CHANSIK_SHOI = {
 | [롯데월드 차세대 프로젝트](https://www.lotteworld.com/) | 2024.10.28 ~ 2025.09.16 (10개월) | React, SCSS / 애니메이션 라이브러리 : Framer Motion                                      |
 
 ## 저의 기술을 적은 블로그 입니다!
-[chanchan_developer.log]([https://day.hanainsure.co.kr/oneday/main](https://velog.io/@ckstlr0828/posts)) 
+[chanchan_developer.log](https://day.hanainsure.co.kr/oneday/main](https://velog.io/@ckstlr0828/posts)) 
 
 ---
 
