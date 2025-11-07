@@ -47,7 +47,7 @@ const CHANSIK_SHOI = {
 | 포스코 Flow 프로젝트                                                                                                        | 2023.04.03 ~ 2023.06.30 (3개월) | HTML, SCSS, jQuery / 그리드 컴포넌트 : IB Sheet 8 (Table)                                         |
 | 삼성 프로젝트                                                                                                               | 2023.07.03 ~ 2023.07.31 (단기)  | Vue                                                                                               |
 | [전북은행 쏙뱅크 앱 프로젝트](https://play.google.com/store/apps/details?id=kr.co.jbbank.privatebank&pcampaignid=web_share) | 2023.09.01 ~ 2024.02.29 (6개월) | HTML, SCSS, JS, jQuery, React / 그리드 컴포넌트 : High Chart                                      |
-| [롯데월드 차세대 프로젝트]([https://play.google.com/store/apps/details?id=kr.co.jbbank.privatebank&pcampaignid=web_share](https://www.lotteworld.com/) | 2024.10.28 ~ 2025.09.16 (10개월) | React, SCSS / 애니메이션 라이브러리 : Framer Motion                                      |
+| [롯데월드 차세대 프로젝트](https://www.lotteworld.com/) | 2024.10.28 ~ 2025.09.16 (10개월) | React, SCSS / 애니메이션 라이브러리 : Framer Motion                                      |
 
 ## 저의 기술을 적은 블로그 입니다!
 [chanchan_developer.log]([https://day.hanainsure.co.kr/oneday/main](https://velog.io/@ckstlr0828/posts)) 
