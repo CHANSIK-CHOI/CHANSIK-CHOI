@@ -1,128 +1,138 @@
 # 👋 Hi, I'm 최찬식 (Chansik Choi)
 
-4년 6개월 차 퍼블리셔이며, 현재는 **프론트엔드 개발자로 전향**을 목표로  
-React · TypeScript · Next.js를 깊이 있게 학습하고 있습니다.
-
-HTML/CSS 기반 마크업부터  
-React 환경에서의 UI 컴포넌트 구축까지  
-“사용자에게 보이는 것”을 설계하고 구현하는 데 가장 자신 있습니다.
-
-현재 [프레임아웃](http://frameout.com/)에서 웹/앱 퍼블리싱을 담당하고 있습니다.
+4년 6개월간 웹·앱 UI를 설계해 온 **프론트엔드 전환형 개발자**입니다.  
+현재 [프레임아웃](http://frameout.com/)에서 웹/앱 프로젝트를 수행하며  
+퍼블리싱 경험을 바탕으로 프론트엔드 영역으로 역할을 확장하고 있습니다.
 
 ---
 
 ## 💼 About Me
-- **경력**: 2021.06.28 ~ 재직중, 프레임아웃 퍼블리셔 (4년 6개월)
-- **담당 역할**: 웹/모바일 서비스 UI 퍼블리싱 및 컴포넌트 구축
-- **리더십 경험**: 파트장 역할 수행 — 팀원 코드 리뷰, 컴포넌트 가이드/규칙 정립
-- **전향 목표**: React와 TypeScript 기반 프론트엔드 개발자로 성장 중
+- **Experience**: 2021.06.28 ~ Present (4년 6개월)
+- **Company**: 프레임아웃 (Frameout)
+- **Role**: 대기업 파견 프로젝트 중심으로 UI 가이드 설계, 퍼블리싱 수행
+- **Leadership**: 퍼블리싱 파트장  
+  - UI 컴포넌트 가이드/규칙 정립  
+  - 팀원 코드 리뷰 및 협업 기준 수립
 
 ---
 
 ## 🛠 Tech Stack
 
 ### Frontend Development
-- **React**, **TypeScript**  
-- React Hooks 기반 컴포넌트 구조 설계  
-- Framer Motion 기반 인터랙션 개발  
-- Fetch API 기반 CRUD 구현
+- **React, TypeScript**  
+  - 컴포넌트 책임 분리와 재사용성을 고려한 구조 설계  
+  - Hooks 기반 상태 관리 및 UI 흐름 구현
+- **Next.js (Learning)**  
+  - App Router 구조 이해  
+  - 서버/클라이언트 컴포넌트 개념 학습
 
 ### Markup & Styling
-- HTML5 (Semantic / BEM)
+- HTML5 (Semantic Markup, BEM)
 - SCSS(Sass), Responsive Web
-- Gulp Workflow 구축
+- Gulp 기반 퍼블리싱 워크플로우 구축 경험
 
 ### JavaScript
-- ES6+, 비동기 통신(fetch), 모듈 패턴
-- jQuery
+- ES6+, 비동기 통신(fetch)
+- jQuery (레거시 프로젝트 유지보수 경험)
 
-### Animation Libraries
-- Swiper.js  
-- GSAP  
+### Animation & UI Libraries
 - Framer Motion
+- GSAP
+- Swiper.js
+
+### Data & State (Learning)
+- TanStack Query (Server State)
+- Zustand (Global State)
 
 ### Tools & Collaboration
-- Git, GitHub  
-- Figma  
-- UI 컴포넌트 가이드 작업 및 협업
+- Git, GitHub
+- Figma
 
 ---
 
 ## 📂 Projects
 
 ### 1. 하나손해보험 원데이 앱 고도화
-- **기간**: 2021.07.26 ~ 2022.03.25  
-- **기술**: HTML, CSS, JavaScript  
-- **역할**:
-  - GSAP 기반 SVG 인터랙션 구현  
-  - Intro, 상품 가입 절차 등 페이지 퍼블리싱
+- **Period**: 2021.07.26 ~ 2022.03.25
+- **Tech**: HTML, CSS, JavaScript, GSAP
+- **What I Did**
+  - GSAP 기반 SVG 인터랙션 구현
+  - 상품 가입 플로우 UI 퍼블리싱
+  - 디자이너·기획자 요구사항을 인터랙션 구조로 정리
 
 ---
 
 ### 2. 캐논코리아 통합 프로젝트
-- **기간**: 2022.03.28 ~ 2022.10.21  
-- **기술**: HTML, SCSS, jQuery  
-- **역할**:  
-  - 퍼블리싱 UI 컴포넌트 가이드, 페이지 제작
-  - 인터랙티브 페이지 애니메이션 퍼블리싱  
+- **Period**: 2022.03.28 ~ 2022.10.21
+- **Tech**: HTML, SCSS, jQuery
+- **What I Did**
+  - UI 컴포넌트 가이드 설계 및 공통 레이아웃 정립
+  - 인터랙티브 페이지 애니메이션 구현
+  - 컴포넌트 단위 퍼블리싱으로 유지보수성 개선
 
 ---
 
-### 3. 국민은행 빌드배포 자동화 시스템 (내부)
-- **기간**: 2022.10.24 ~ 2023.03.24  
-- **기술**: React, TypeScript, SCSS  
-- **역할**:  
-  - React 환경에서 퍼블리싱 UI 컴포넌트 가이드, 페이지 제작
-  - Ant Design/PrimeReact 기반 UI 커스터마이징  
+### 3. 국민은행 빌드·배포 자동화 시스템
+- **Period**: 2022.10.24 ~ 2023.03.24
+- **Tech**: React, TypeScript, SCSS, Ant Design, PrimeReact
+- **What I Did**
+  - React 환경 UI 컴포넌트 가이드 구축
+  - 디자인 시스템 기반 컴포넌트 커스터마이징
+  - TypeScript props 구조 이해 및 협업
 
 ---
 
-### 4. 포스코 Flow 프로젝트 (내부)
-- **기간**: 2023.04.03 ~ 2023.06.30  
-- **기술**: HTML, SCSS, jQuery
-- **역할**:
-  - 퍼블리싱 UI 컴포넌트 가이드, 페이지 제작
-  - IB Sheet 8 기반 그리드 UI 커스터마이징  
+### 4. 포스코 Flow 프로젝트
+- **Period**: 2023.04.03 ~ 2023.06.30
+- **Tech**: HTML, SCSS, jQuery, IB Sheet 8
+- **What I Did**
+  - UI 컴포넌트 가이드 설계
+  - 대용량 데이터 그리드 UI 커스터마이징
+  - 데이터 중심 화면에서의 가독성 개선
 
 ---
 
-### 5. 삼성 프로젝트 (내부)
-- **기간**: 2023.07.03 ~ 2023.07.31  
-- **기술**: Vue  
-- **역할**: Vue 기반 UI 퍼블리싱
+### 5. 삼성 프로젝트
+- **Period**: 2023.07.03 ~ 2023.07.31
+- **Tech**: Vue
+- **What I Did**
+  - Vue 기반 UI 퍼블리싱
+  - 기존 코드 구조 이해 후 화면 수정 및 확장
 
 ---
 
 ### 6. 전북은행 쏙뱅크 앱
-- **기간**: 2023.09.01 ~ 2024.02.29  
-- **기술**: HTML, SCSS, JS, jQuery, React  
-- **역할**:
-  - 퍼블리싱 UI 컴포넌트 가이드, 페이지 제작
-  - Highcharts 기반 대시보드  UI 커스터마이징  
+- **Period**: 2023.09.01 ~ 2024.02.29
+- **Tech**: HTML, SCSS, JavaScript, jQuery, React, Highcharts
+- **What I Did**
+  - UI 컴포넌트 가이드 설계
+  - Highcharts 기반 대시보드 UI 커스터마이징
+  - 데이터 시각화 화면 UX 개선
 
 ---
 
 ### 7. 롯데월드 차세대 프로젝트
-- **기간**: 2024.10.28 ~ 2025.09.16  
-- **기술**: React, SCSS  
-- **역할**:
-  - React 환경에서 퍼블리싱 UI 컴포넌트 가이드, 페이지 제작
-  - Framer Motion, Swiper 기반 인터랙션 가이드 제작
+- **Period**: 2024.10.28 ~ 2025.09.16
+- **Tech**: React, SCSS, Framer Motion, Swiper
+- **What I Did**
+  - React 환경 UI 컴포넌트 가이드 제작
+  - Framer Motion, Swiper 기반 인터랙션 가이드 정립
+  - 성능과 유지보수를 고려한 애니메이션 적용
 
 ---
 
 ## 📚 Now Learning
-현재 **프론트엔드 개발자로의 전향**을 목표로 아래 기술을 집중 학습하고 있습니다.
+프론트엔드 개발자로서의 역할 확장을 목표로 아래 영역을 집중적으로 학습하고 있습니다.
 
 - React / TypeScript 심화
-- Next.js App Router 구조, 서버/클라이언트 컴포넌트 이해
+- Next.js Page Router & App Router 구조
 - TanStack Query 기반 서버 상태 관리
-- Zustand 기반 전역 상태 관리
-- fetch, HTTP, DNS, 렌더링, 브라우저 동작 구조 등 Web Fundamentals
+- Zustand 전역 상태 관리
+- HTTP, DNS, Rendering, Browser Runtime 등 Web Fundamentals
 
 ---
 
 ## 📫 Contact & Links
-- **GitHub**: [CHANSIK-CHOI](https://github.com/CHANSIK-CHOI)  
-- **Email**: [ccsik0828@gmail.com](mailto:ccsik0828@gmail.com)  
-- **Blog**: [chanchan_developer.log](https://velog.io/@ckstlr0828/posts)
+- **GitHub**: https://github.com/CHANSIK-CHOI
+- **Email**: ccsik0828@gmail.com
+- **Blog**: https://velog.io/@ckstlr0828/posts
