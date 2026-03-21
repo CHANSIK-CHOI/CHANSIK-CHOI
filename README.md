@@ -9,10 +9,10 @@
 
 ---
 
-## 💼 About Me
+## 💼 소개
 
-- **Experience**: 2021.06.28 ~ 재직 중 (약 5년)
-- **Company**: 프레임아웃 (Frameout)
+- **경력**: 2021.06.28 ~ 재직 중 (약 5년)
+- **회사**: 프레임아웃 (Frameout)
 
 ### 🔹 주요 업무
 - 공통 컴포넌트 설계를 통한 재사용성과 유지보수성 개선  
@@ -30,8 +30,8 @@
 ## 📚 개인 프로젝트
 
 ### 1. 권한 기반 인터뷰어 피드백 보드
-- **Project Link**: [Next.js + Supabase로 만든 권한 기반 피드백 보드](https://next-js-page-router-fetch-api.vercel.app/)
-- **Tech & Library**: Next.js, TypeScript, Supabase, React Hook Form
+- **프로젝트 링크**: [Next.js + Supabase로 만든 권한 기반 피드백 보드](https://next-js-page-router-fetch-api.vercel.app/)
+- **기술 & 라이브러리**: Next.js, TypeScript, Supabase, React Hook Form
 
 **주요 작업**
 - Supabase Auth 기반 인증 (로그인, 회원가입, 권한 관리)  
@@ -42,8 +42,8 @@
 ---
 
 ### 2. Next.js에서 사용 가능한 공통 UI 컴포넌트 가이드
-- **Project Link**: [Next UI Components Guide](https://next-ui-components-guide.vercel.app/)
-- **Tech & Library**: Next.js, TypeScript, React Hook Form, zustand, React Hook Form, react-day-picker, framer-motion
+- **프로젝트 링크**: [Next UI Components Guide](https://next-ui-components-guide.vercel.app/)
+- **기술 & 라이브러리**: Next.js, TypeScript, React Hook Form, zustand, React Hook Form, react-day-picker, framer-motion
 
 **주요 작업**
 - Next 기반 UI 컴포넌트 설계 및 가이드 페이지 구성
@@ -61,8 +61,8 @@
 ---
 
 ### 3. 유저 대시보드
-- **Project Link**: [React CRUD Project](https://react-crud-project-five.vercel.app/)
-- **Tech & Library**: React, TypeScript, Vite, React Hook Form
+- **프로젝트 링크**: [React CRUD Project](https://react-crud-project-five.vercel.app/)
+- **기술 & 라이브러리**: React, TypeScript, Vite, React Hook Form
 
 **주요 작업**
 - reqres.in Mock API를 활용하여 데이터를 관리 
@@ -70,7 +70,7 @@
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 기술 스택
 
 ### Frontend
 - **React, TypeScript**  
