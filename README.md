@@ -41,7 +41,7 @@
 
 ---
 
-### 2. Next.js에서 사용 가능한 공통 UI 컴포넌트 가이드
+### 2. Next.js에서 사용 가능한 공통 UI 컴포넌트 가이드 (Repositories 비공개)
 - **프로젝트 링크**: [Next UI Components Guide](https://next-ui-components-guide.vercel.app/)
 - **기술 & 라이브러리**: Next.js, TypeScript, React Hook Form, zustand, React Hook Form, react-day-picker, framer-motion
 
