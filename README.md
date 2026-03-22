@@ -128,9 +128,7 @@
 
 ---
 
----
-
-## 📚 개인 프로젝트
+## 📚 개인 프로젝트 (포트폴리오)
 
 ### 🔹 1. 권한 기반 인터뷰어 피드백 보드
 - **프로젝트 링크**: [interviewer-feedback-board](https://next-js-page-router-fetch-api.vercel.app/)
