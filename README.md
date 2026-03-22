@@ -159,7 +159,7 @@
 
 ### 🔹 3. 사용자 관리 CRUD 프로젝트
 - **프로젝트 링크**: [react-crud-project](https://react-crud-project-five.vercel.app/)
-- **기술 & 라이브러리**: React, TypeScript, Vite, React Hook Form, classnames
+- **기술 & 라이브러리**: React, TypeScript, Vite, React Hook Form
 - **프로젝트 소개**: 사용자 조회, 생성, 개별 수정, 일괄 수정, 삭제 흐름을 한 화면에서 관리할 수 있도록 구현한 개인 포트폴리오용 사용자 관리 CRUD 프로젝트
 
 **주요 작업**
@@ -167,7 +167,7 @@
 - `fetch`와 `useState` 기반으로 CRUD 로직 직접 구현
 - `React Hook Form`을 활용한 폼 상태 관리와 유효성 검사 적용
 - 개별 수정/삭제뿐 아니라 선택 기반 일괄 수정, 일괄 삭제 기능 구현
-- 로딩/에러 처리 UI와 Context + reducer 기반 상태 관리 구조 분리
+- 로딩/에러 처리 UI와 `Context` + `reducer` 기반 상태 관리 구조 분리
 - `memo`, `classnames` 등을 활용해 렌더링과 UI 상태 표현 정리
 
 ## 📚 Now Learning
