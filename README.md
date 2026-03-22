@@ -29,7 +29,7 @@
 
 ## 📚 개인 프로젝트
 
-### 1. 권한 기반 인터뷰어 피드백 보드
+### 🔹 1. 권한 기반 인터뷰어 피드백 보드
 - **프로젝트 링크**: [Next.js + Supabase로 만든 권한 기반 피드백 보드](https://next-js-page-router-fetch-api.vercel.app/)
 - **기술 & 라이브러리**: Next.js, TypeScript, Supabase, React Hook Form
 
@@ -39,9 +39,7 @@
 - 피드백 작성/수정/삭제 및 승인/반려/재검토 흐름 설계  
 - 상태 기반 UI 제어 및 액션 제한 구조 구현  
 
----
-
-### 2. Next.js에서 사용 가능한 공통 UI 컴포넌트 가이드 (Repositories 비공개)
+### 🔹 2. Next.js에서 사용 가능한 공통 UI 컴포넌트 가이드 (Repositories 비공개)
 - **프로젝트 링크**: [Next UI Components Guide](https://next-ui-components-guide.vercel.app/)
 - **기술 & 라이브러리**: Next.js, TypeScript, React Hook Form, zustand, React Hook Form, react-day-picker, framer-motion
 
@@ -57,10 +55,8 @@
   - radius / shadow
   - color / state
   - motion
- 
----
 
-### 3. 사용자 관리 CRUD 프로젝트
+### 🔹 3. 사용자 관리 CRUD 프로젝트
 - **프로젝트 링크**: [React CRUD Project](https://react-crud-project-five.vercel.app/)
 - **기술 & 라이브러리**: React, TypeScript, Vite, React Hook Form, classnames
 - **프로젝트 소개**: 사용자 조회, 생성, 개별 수정, 일괄 수정, 삭제 흐름을 한 화면에서 관리할 수 있도록 구현한 개인 포트폴리오용 사용자 관리 CRUD 프로젝트
@@ -110,7 +106,7 @@
 
 ## 📂 경력기술서
 
-### 1. 롯데월드 차세대 프로젝트
+### 🔹 1. 롯데월드 차세대 프로젝트
 - **기간**: 2024.10 ~ 2025.09  
 - **기술**: React, SCSS, Framer Motion, Swiper  
 
@@ -120,9 +116,7 @@
 - 상태 처리 및 이벤트 규칙을 통일하여 일관성 확보  
 - Framer Motion, Swiper 기반 인터랙션 구조 정의
 
----
-
-### 2. 전북은행 쏙뱅크 앱
+### 🔹 2. 전북은행 쏙뱅크 앱
 - **기간**: 2023.09 ~ 2024.02  
 - **기술**: HTML, SCSS, JavaScript, React, Highcharts  
 
@@ -131,9 +125,7 @@
 - 차트 옵션 및 이벤트를 구조화하여 재사용 가능한 형태로 정리  
 - 데이터 가독성과 UX 개선 중심 UI 설계  
 
----
-
-### 3. 삼성 프로젝트
+### 🔹 3. 삼성 프로젝트
 - **기간**: 2023.07  
 - **기술**: Vue  
 
@@ -141,9 +133,7 @@
 - 기존 코드 구조 분석 후 UI 수정 및 기능 확장  
 - 컴포넌트 구조 이해 기반 유지보수 수행  
 
----
-
-### 4. 포스코 Flow 프로젝트
+### 🔹 4. 포스코 Flow 프로젝트
 - **기간**: 2023.04 ~ 2023.06  
 - **기술**: HTML, SCSS, jQuery, IBSheet8  
 
@@ -152,9 +142,7 @@
 - 반복되는 컬럼 타입, 상태 표시 등을 공통 객체로 정의  
 - 개발에서 데이터와 옵션만 전달하면 확장 가능하도록 구조 설계  
 
----
-
-### 5. 국민은행 빌드·배포 자동화 시스템
+### 🔹 5. 국민은행 빌드·배포 자동화 시스템
 - **기간**: 2022.10 ~ 2023.03  
 - **기술**: React, TypeScript, Ant Design, PrimeReact  
 
@@ -164,9 +152,7 @@
 - 커스텀 훅 기반 전역 모달 관리 구조 설계  
 - 팀 내 일관된 컴포넌트 사용 기준 정립  
 
----
-
-### 6. 캐논코리아 통합 프로젝트
+### 🔹 6. 캐논코리아 통합 프로젝트
 - **기간**: 2022.03 ~ 2022.10  
 - **기술**: HTML, SCSS, jQuery  
 
@@ -175,9 +161,7 @@
 - 레이아웃 및 UI 구조 표준화  
 - 컴포넌트 단위로 분리하여 유지보수성 개선  
 
----
-
-### 7. 하나손해보험 원데이 앱 고도화
+### 🔹 7. 하나손해보험 원데이 앱 고도화
 - **기간**: 2021.07 ~ 2022.03  
 - **기술**: HTML, CSS, JavaScript, GSAP  
 
