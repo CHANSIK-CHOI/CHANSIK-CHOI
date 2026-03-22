@@ -90,7 +90,7 @@
 
 ### 🔹 4. 포스코 Flow 프로젝트
 - **기간**: 2023.04 ~ 2023.06  
-- **기술**: HTML, SCSS, jQuery, IBSheet8  
+- **기술**: HTML, SCSS, jQuery, IBSheet8
 
 **주요 작업**
 - 데이터 중심 UI 컴포넌트 가이드 설계  
