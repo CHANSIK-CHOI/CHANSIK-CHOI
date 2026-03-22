@@ -1,11 +1,10 @@
 # 👋 Hi, I'm 최찬식 (Chansik Choi)
 
 공통 컴포넌트 설계와 구조화를 통해  
-재사용성과 유지보수성을 개선해 왔으며,  
-프론트엔드 개발자로의 전환을 지원하는 5년 차 퍼블리셔 최찬식입니다.
+재사용성과 유지보수성을 개선해 온 퍼블리셔 입니다.  
 
-4년 이상 다양한 프로젝트에서 UI를 설계하며  
-반복 작업을 줄이고, 일관된 기준으로 확장 가능한 구조를 만드는 데 집중해왔습니다.
+현재는 퍼블리싱 경험을 기반으로  
+프론트엔드 개발자로서의 역량을 확장하고 있습니다.
 
 ---
 
@@ -37,7 +36,7 @@
 - **Next.js (Page Router 학습 및 적용 경험)**  
 
 ### 🔹 State & Data
-- TanStack Query (서버 상태 관리 학습 및 적용) -> useQuery, useMutation  
+- TanStack Query (useQuery, useMutation 기반 서버 상태 관리 학습 및 적용)
 - React Hook Form (폼 상태 관리 및 validation 구조 설계)  
 
 ### 🔹 Markup & Styling
