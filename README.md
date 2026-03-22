@@ -140,22 +140,17 @@
 - `pending`, `revised_pending`, `approved`, `rejected` 상태에 따른 UI 제어와 액션 제한 처리
 - 공개 목록과 인증 사용자 전용 데이터를 병합해 역할별 보드 경험 구성
 
-### 🔹 2. Next.js에서 사용 가능한 공통 UI 컴포넌트 가이드 (Repositories 비공개)
-- **프로젝트 링크**: [Next UI Components Guide](https://next-ui-components-guide.vercel.app/)
-- **기술 & 라이브러리**: Next.js, TypeScript, React Hook Form, zustand, React Hook Form, react-day-picker, framer-motion
+### 🔹 2. Next.js 기반 공통 UI 컴포넌트 가이드
+- **프로젝트 링크**: [next-ui-components-guide](https://next-ui-components-guide.vercel.app/)
+- **기술 & 라이브러리**: Next.js, TypeScript, React Hook Form, zustand, react-select, react-day-picker, framer-motion
 
 **주요 작업**
-- Next 기반 UI 컴포넌트 설계 및 가이드 페이지 구성
-- controlled / uncontrolled 사용 흐름 정리
-- React Hook Form 연동 예제 제공
-- Field 중심 폼 레이아웃 규칙 정립
-- 공통 디자인 토큰 정리
-  - typography
-  - spacing
-  - size
-  - radius / shadow
-  - color / state
-  - motion
+- Next.js 기반 공통 UI 컴포넌트 설계 및 가이드 페이지 구축
+- controlled 컴포넌트와 `React Hook Form` 래퍼 구조 정리
+- `Field` 중심 폼 레이아웃 및 접근성 연결 규칙 정립
+- `popup`, `toast`, `datepicker` 등 overlay 컴포넌트 패턴 정리
+- `typography`, `spacing`, `size`, `radius`, `shadow`, `color`/`state`, `motion` 디자인 토큰 체계 정리
+
 
 ### 🔹 3. 사용자 관리 CRUD 프로젝트
 - **프로젝트 링크**: [react-crud-project](https://react-crud-project-five.vercel.app/)
