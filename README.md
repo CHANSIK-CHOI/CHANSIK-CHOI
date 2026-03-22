@@ -30,7 +30,7 @@
 ## 📚 개인 프로젝트
 
 ### 🔹 1. 권한 기반 인터뷰어 피드백 보드
-- **프로젝트 링크**: [Next.js + Supabase로 만든 권한 기반 피드백 보드](링크)
+- **프로젝트 링크**: [interviewer-feedback-board](https://next-js-page-router-fetch-api.vercel.app/)
 - **기술 & 라이브러리**: Next.js 14 (Page Router), TypeScript, Supabase(Auth/DB/Storage), React Hook Form
 
 **주요 작업**
