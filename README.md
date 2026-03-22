@@ -30,14 +30,14 @@
 ## 📚 개인 프로젝트
 
 ### 🔹 1. 권한 기반 인터뷰어 피드백 보드
-- **프로젝트 링크**: [Next.js + Supabase로 만든 권한 기반 피드백 보드](https://next-js-page-router-fetch-api.vercel.app/)
-- **기술 & 라이브러리**: Next.js, TypeScript, Supabase, React Hook Form
+- **프로젝트 링크**: [Next.js + Supabase로 만든 권한 기반 피드백 보드](링크)
+- **기술 & 라이브러리**: Next.js 14 (Page Router), TypeScript, Supabase(Auth/DB/Storage), React Hook Form
 
 **주요 작업**
-- Supabase Auth 기반 인증 (로그인, 회원가입, 권한 관리)  
-- 사용자 권한에 따른 UI 및 데이터 접근 분기  
-- 피드백 작성/수정/삭제 및 승인/반려/재검토 흐름 설계  
-- 상태 기반 UI 제어 및 액션 제한 구조 구현  
+- reviewer / admin 역할에 따라 UI와 조회 가능한 데이터를 분리하는 권한 모델 설계
+- 피드백 작성 → 검토 → 공개로 이어지는 승인 워크플로우 및 상태 전이 구현
+- `pending`, `revised_pending`, `approved`, `rejected` 상태에 따른 UI 제어와 액션 제한 처리
+- 공개 목록과 인증 사용자 전용 데이터를 병합해 역할별 보드 경험 구성
 
 ### 🔹 2. Next.js에서 사용 가능한 공통 UI 컴포넌트 가이드 (Repositories 비공개)
 - **프로젝트 링크**: [Next UI Components Guide](https://next-ui-components-guide.vercel.app/)
