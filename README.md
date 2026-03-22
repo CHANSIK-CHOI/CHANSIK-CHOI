@@ -73,32 +73,32 @@
 
 ## 🛠 기술 스택
 
-### Frontend
+### 🔹 Frontend
 - **React, TypeScript**  
   - 컴포넌트 책임 분리 및 재사용 구조 설계  
   - 상태 변화에 따른 UI 분기 처리 경험  
 
 - **Next.js (Page Router 학습 및 적용 경험)**  
 
-### State & Data
+### 🔹 State & Data
 - TanStack Query (서버 상태 관리 학습 및 적용) -> useQuery, useMutation  
 - React Hook Form (폼 상태 관리 및 validation 구조 설계)  
 
-### Markup & Styling
+### 🔹 Markup & Styling
 - HTML5 (Semantic Markup, 접근성 고려)
 - SCSS (BEM, 구조화된 스타일링)
 - 반응형 웹 구현
 
-### JavaScript
+### 🔹 JavaScript
 - ES6+, 비동기 처리(fetch)
 - jQuery
 
-### Animation & UI
+### 🔹 Animation & UI
 - Framer Motion
 - GSAP
 - Swiper
 
-### Tools
+### 🔹 Tools
 - Git, GitHub
 - Figma
 
