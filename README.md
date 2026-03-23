@@ -156,6 +156,7 @@
 ### 🔹 3. Next.js 기반 공통 UI 컴포넌트 가이드
 - **프로젝트 링크**: [next-ui-components-guide](https://next-ui-components-guide.vercel.app/)
 - **기술 & 라이브러리**: Next.js, TypeScript, React Hook Form, zustand, react-select, react-day-picker, framer-motion
+- **프로젝트 소개**: Next.js 기반 공통 UI 컴포넌트를 직접 구현하고, 가이드 페이지와 예제 폼으로 사용 흐름까지 정리한 프로젝트입니다.
 
 **주요 작업**
 - Next.js 기반 공통 UI 컴포넌트 설계 및 가이드 페이지 구축
