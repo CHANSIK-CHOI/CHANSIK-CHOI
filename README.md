@@ -11,7 +11,7 @@
 ## 💼 소개
 
 - **경력**: 2021.06.28 ~ 재직 중 (약 5년)
-- **회사**: <a href="https://www.frameout.co.kr/" target="_blank">프레임아웃 (Frameout)</a>
+- **회사**: [프레임아웃](https://www.frameout.co.kr/)
 
 ### 🔹 주요 업무
 - 공통 컴포넌트 설계를 통한 재사용성과 유지보수성 개선  
@@ -130,7 +130,7 @@
 ## 📚 개인 프로젝트 (포트폴리오)
 
 ### 🔹 1. 권한 기반 인터뷰어 피드백 보드
-- **프로젝트 링크**: <a href="https://next-js-page-router-fetch-api.vercel.app/" target="_blank">interviewer-feedback-board</a>
+- **프로젝트 링크**: [interviewer-feedback-board](https://next-js-page-router-fetch-api.vercel.app/)
 - **기술 & 라이브러리**: Next.js 14 (Page Router), TypeScript, Supabase(Auth/DB/Storage), React Hook Form
 
 **주요 작업**
@@ -140,7 +140,7 @@
 - 공개 목록과 인증 사용자 전용 데이터를 병합해 역할별 보드 경험 구성
 
 ### 🔹 2. Next.js 기반 공통 UI 컴포넌트 가이드
-- **프로젝트 링크**: <a href="https://next-ui-components-guide.vercel.app/" target="_blank">next-ui-components-guide</a>
+- **프로젝트 링크**: [next-ui-components-guide](https://next-ui-components-guide.vercel.app/)
 - **기술 & 라이브러리**: Next.js, TypeScript, React Hook Form, zustand, react-select, react-day-picker, framer-motion
 
 **주요 작업**
@@ -152,7 +152,7 @@
 
 
 ### 🔹 3. 사용자 관리 CRUD 프로젝트
-- **프로젝트 링크**: <a href="https://react-crud-project-five.vercel.app/" target="_blank">react-crud-project</a>
+- **프로젝트 링크**: [react-crud-project](https://react-crud-project-five.vercel.app/)
 - **기술 & 라이브러리**: React, TypeScript, Vite, React Hook Form
 - **프로젝트 소개**: 사용자 조회, 생성, 개별 수정, 일괄 수정, 삭제 흐름을 한 화면에서 관리할 수 있도록 구현한 개인 포트폴리오용 사용자 관리 CRUD 프로젝트
 
@@ -176,6 +176,6 @@
 
 ## 📫 Contact
 
-- **GitHub**: <a href="https://github.com/CHANSIK-CHOI" target="_blank">https://github.com/CHANSIK-CHOI</a>  
-- **Email**: <a href="mailto:ccsik0828@gmail.com">ccsik0828@gmail.com</a>  
-- **Blog**: <a href="https://velog.io/@ckstlr0828/posts" target="_blank">https://velog.io/@ckstlr0828/posts</a>
+- **GitHub**: [CHANSIK-CHOI](https://github.com/CHANSIK-CHOI)  
+- **Email**: [ccsik0828@gmail.com](mailto:ccsik0828@gmail.com)  
+- **Blog**: [velog](https://velog.io/@ckstlr0828/posts)
