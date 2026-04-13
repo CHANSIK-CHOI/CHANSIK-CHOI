@@ -142,6 +142,10 @@
 - TanStack Query 기반 서버 상태 관리
 - React Suspense
 
+## 📚 Ai Learning
+
+- Claude Code
+
 ---
 
 ## 📫 Contact
