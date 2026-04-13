@@ -120,7 +120,7 @@
 ### 🔹 1. 사용자 관리 CRUD 프로젝트
 - **프로젝트 링크**: [react-crud-project](https://react-crud-project-five.vercel.app/)
 - **기술 & 라이브러리**: React, TypeScript, Vite, React Hook Form
-- **프로젝트 소개**: 사용자 조회, 생성, 개별 수정, 일괄 수정, 삭제 흐름을 한 화면에서 관리할 수 있도록 구현한 개인 포트폴리오용 사용자 관리 CRUD 프로젝트
+- **프로젝트 소개**: 사용자 조회, 생성, 개별 수정, 일괄 수정, 삭제 흐름을 한 화면에서 관리할 수 있도록 구현한 개인 포트폴리오용 사용자 관리 CRUD 실습 프로젝트
 
 ### 🔹 2. 인터뷰어 피드백 보드 (Next.js Page Router + Supabase)
 - **프로젝트 링크**: [interviewer-feedback-board](https://next-js-page-router-fetch-api.vercel.app/)
@@ -130,7 +130,7 @@
 ### 🔹 3. Next.js 기반 공통 UI 컴포넌트 가이드
 - **프로젝트 링크**: [next-ui-components-guide](https://next-ui-components-guide.vercel.app/)
 - **기술 & 라이브러리**: Next.js, TypeScript, React Hook Form, zustand, react-select, react-day-picker, framer-motion
-- **프로젝트 소개**: Next.js 기반 공통 UI 컴포넌트를 직접 구현하고, 가이드 페이지와 예제 폼으로 사용 흐름까지 정리한 프로젝트입니다.
+- **프로젝트 소개**: Next.js 기반 공통 UI 컴포넌트를 직접 구현하고, 가이드 페이지와 예제 폼으로 사용 흐름까지 정리한 포트폴리오 프로젝트
 
 ---
 
