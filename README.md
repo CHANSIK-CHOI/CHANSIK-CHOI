@@ -134,7 +134,7 @@
 - **기술 & 라이브러리**: Next.js, TypeScript, React Hook Form, zustand, react-select, react-day-picker, framer-motion
 - **프로젝트 소개**: 실무에서 경험한 공통 UI 컴포넌트의 유지보수 문제를 바탕으로, controlled 컴포넌트와 React Hook Form Wrapper를 분리하고 Popup/Toast/Datepicker 같은 복합 UI 상태를 일관된 구조로 관리한 컴포넌트 가이드 프로젝트입니다.
 
-### 🔹 1. 사용자 관리 CRUD 프로젝트
+### 🔹 4. 사용자 관리 CRUD 프로젝트
 - **프로젝트 링크**: [react-crud-project](https://react-crud-project-five.vercel.app/)
 - **기술 & 라이브러리**: React, TypeScript, Vite, React Hook Form
 - **프로젝트 소개**: Fetch API 기반 사용자 관리 CRUD를 직접 구현하며 조회, 생성, 개별 수정, 일괄 수정, 개별/선택 삭제, 로딩/에러 상태, 폼 검증을 한 화면 흐름으로 구성한 기본기 프로젝트입니다.
